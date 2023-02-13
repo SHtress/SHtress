@@ -4,9 +4,9 @@ I'm Stas Butrin, knowledge engineer, backend developer and linux enthusiast.
 
 More about my coding life:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shtress&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shtress)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shtress&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shtress&count_private=true&show_icons=true)
 
 ### Things I'm working with:
 
