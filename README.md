@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Stas Butrin, knowledge engineer, backend developer and linux enthusiast.
+I'm Stas Butryn, knowledge engineer, backend developer and linux enthusiast.
 
 More about my coding life:
 
