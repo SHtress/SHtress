@@ -1,6 +1,10 @@
 ### Hello there 👋
 
-I'm Stas Butryn, knowledge engineer, backend developer and linux enthusiast.
+I'm Stas Butryn backend developer and knowledge engineer. 
+
+Mostly work with C/C++. Have experience in automation with Python and Bash. Currently studying PHP.
+
+Interested in Artificial Intelligence and Operating Systems. Big fan of terminals anc CLI.
 
 More about my coding life:
 
@@ -26,3 +30,8 @@ More about my coding life:
 <code><a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://github.com/SHtress/SHtress/raw/main/icons/git.png" height="42"></a></code>
 <code><a href="https://cmake.org/"><img alt="Cmake" title="Cmake" src="https://github.com/SHtress/SHtress/raw/main/icons/cmake.png" height="42"></a></code>
 <code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://github.com/SHtress/SHtress/raw/main/icons/ubuntu.png" height="42"></a></code>
+
+### How to reach me:
+
+- LinkedIn: https://www.linkedin.com/in/stas-butryn/
+- Gmail: stas.butrin1331@gmail.com
