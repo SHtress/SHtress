@@ -4,7 +4,7 @@ I'm Stas Butryn backend developer and knowledge engineer.
 
 Mostly work with C/C++. Have experience in automation with Python and Bash. Currently studying PHP.
 
-Interested in Artificial Intelligence and Operating Systems. Big fan of terminals anc CLI.
+Interested in Artificial Intelligence and Operating Systems. Big fan of terminals and CLI.
 
 More about my coding life:
 
