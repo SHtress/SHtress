@@ -25,7 +25,7 @@ More about my coding life:
 
 ### Enviroments and Tools I'm using:
 
-<code><a href="https://archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/SHtress/SHtress/raw/main/icons/arch.png" height="42"></a></code>
+<code><a href="https://www.debian.org/"><img alt="Debian" title="Debian" src="https://github.com/SHtress/SHtress/raw/main/icons/debian.png" height="42"></a></code>
 <code><a href="https://code.visualstudio.com/"><img alt="VS Code" title="VS Code" src="https://github.com/SHtress/SHtress/raw/main/icons/vs_code.png" height="42"></a></code>
 <code><a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://github.com/SHtress/SHtress/raw/main/icons/git.png" height="42"></a></code>
 <code><a href="https://cmake.org/"><img alt="Cmake" title="Cmake" src="https://github.com/SHtress/SHtress/raw/main/icons/cmake.png" height="42"></a></code>
