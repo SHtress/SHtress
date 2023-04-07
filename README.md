@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm Stas Butryn backend developer and knowledge engineer. 
+I'm Stas Butryn backend/desktop developer and knowledge engineer. 
 
-Mostly work with C/C++. Have experience in automation with Python and Bash. Currently studying PHP.
+Mostly work with C/C++ but ready to learn something new. Have experience in automation with Python and Bash. Currently studying PHP.
 
 Interested in Artificial Intelligence and Operating Systems. Big fan of terminals and CLI.
 
