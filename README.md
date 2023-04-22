@@ -2,7 +2,7 @@
 
 I'm Stas Butryn backend/desktop developer and knowledge engineer. 
 
-Mostly work with C/C++ but ready to learn something new. Have experience in automation with Python and Bash. Currently studying PHP.
+Mostly work with C/C++ but ready to learn something new. Have experience in automation with Python and Bash.
 
 Interested in Artificial Intelligence and Operating Systems. Big fan of terminals and CLI.
 
@@ -19,9 +19,9 @@ More about my coding life:
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/SHtress/SHtress/raw/main/icons/bash.png" height="42"></a></code>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/SHtress/SHtress/raw/main/icons/python.png" height="42"></a></code>
 
-### Languages and Frameworks I'm studying:
+<!-- ### Languages and Frameworks I'm studying:
 
-<code><a href="https://www.php.net/"><img alt="PHP" title="PHP" src="https://github.com/SHtress/SHtress/raw/main/icons/php.svg" height="42"></a></code>
+<code><a href="https://www.php.net/"><img alt="PHP" title="PHP" src="https://github.com/SHtress/SHtress/raw/main/icons/php.svg" height="42"></a></code> -->
 
 ### Enviroments and Tools I'm using:
 
